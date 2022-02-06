@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CurraghsBettor
 - 👀 I’m interested in Cognitive Psychology 
 - 🌱 I’m currently learning Bayesian Meta-Analysis
-- 💞️ I’m looking to collaborate on ... Good question :)
+- 💞️ I’m looking to collaborate with my closest associates
 - 📫 How to reach me ... ... ... ...
 
 <!---
