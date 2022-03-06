@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Williams
+- 👋 Hi, I’m Williams
 - 👀 I’m interested in Cognitive Psychology 
 - 🌱 I’m currently learning Bayesian Meta-Analysis
 - 💞️ I’m looking to collaborate with my closest associates
