@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cognitive Psychology 
 - 🌱 I’m currently learning Bayesian Meta-Analysis
 - 💞️ I’m looking to collaborate with my closest associates
-- ![image](https://user-images.githubusercontent.com/93611987/184511514-f4abf7ee-324c-4bed-8b7f-7ff9760dd650.png)
+- ![image](https://user-images.githubusercontent.com/93611987/184511552-bf81581f-a6ee-4c2e-b6a6-22256c4b7bc9.png)
 
 <!---
 CurraghsBettor/CurraghsBettor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
