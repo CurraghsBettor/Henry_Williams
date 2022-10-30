@@ -7,4 +7,4 @@
 CurraghsBettor/CurraghsBettor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/93611987/198896482-7747bf15-10bc-49a5-93fb-d32bf9b99427.png)
+![image](https://user-images.githubusercontent.com/93611987/198896620-a5e929b3-04fa-4533-a540-2907002a6a72.png)
