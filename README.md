@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Williams
 - 👀 I’m interested in Cognitive Psychology 
 - 🌱 I’m currently learning Bayesian Meta-Analysis
-- 💞️ I’m looking to collaborate with my closest associates
+- 💞️ The victory of Treve during the “Prix de l’Arc de Triomphe 2013” was sportively and emotionally so impressive that she made me fall in love with her, and it        continues every time I watch her victory.
 
 <!---
 CurraghsBettor/CurraghsBettor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
