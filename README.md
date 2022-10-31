@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Williams
 - 👀 I’m interested in Cognitive Psychology 
-- 🌱 I’m currently learning Bayesian Meta-Analysis
+- 🌱 I’m currently learning Bayesian Meta-Analyses
 - 💞️  The victory of Trêve during the “Prix de l’Arc de Triomphe 2013” was sportively and emotionally so impressive that I fell in love with this filly, and it continues every time I watch her victory. 
 
 <!---
